@@ -45,3 +45,4 @@ while True:
                 f"{Fore.YELLOW}>>> {Fore.RED}\nEntry Value1: {round(abs(entryValue*0.2))}\nEntry Value2: {round(abs(entryValue*0.3))}\nEntry Value3: {round(abs(entryValue*0.5))}\n"
             )
             print('test')
+            print('test2')
